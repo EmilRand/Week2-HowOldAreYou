@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGITpe21\HOwOldAreYou\HOwOldAreYou\bin\Debug\netcoreapp3.1\HOwOldAreYou.exe
+C:\Users\opilane\source\repos\LOGITpe21\HOwOldAreYou\HOwOldAreYou\bin\Debug\netcoreapp3.1\HOwOldAreYou.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\HOwOldAreYou\HOwOldAreYou\bin\Debug\netcoreapp3.1\HOwOldAreYou.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\HOwOldAreYou\HOwOldAreYou\bin\Debug\netcoreapp3.1\HOwOldAreYou.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\HOwOldAreYou\HOwOldAreYou\bin\Debug\netcoreapp3.1\HOwOldAreYou.dll
+C:\Users\opilane\source\repos\LOGITpe21\HOwOldAreYou\HOwOldAreYou\bin\Debug\netcoreapp3.1\HOwOldAreYou.pdb
+C:\Users\opilane\source\repos\LOGITpe21\HOwOldAreYou\HOwOldAreYou\obj\Debug\netcoreapp3.1\HOwOldAreYou.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\HOwOldAreYou\HOwOldAreYou\obj\Debug\netcoreapp3.1\HOwOldAreYou.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\HOwOldAreYou\HOwOldAreYou\obj\Debug\netcoreapp3.1\HOwOldAreYou.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\HOwOldAreYou\HOwOldAreYou\obj\Debug\netcoreapp3.1\HOwOldAreYou.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\HOwOldAreYou\HOwOldAreYou\obj\Debug\netcoreapp3.1\HOwOldAreYou.dll
+C:\Users\opilane\source\repos\LOGITpe21\HOwOldAreYou\HOwOldAreYou\obj\Debug\netcoreapp3.1\HOwOldAreYou.pdb
+C:\Users\opilane\source\repos\LOGITpe21\HOwOldAreYou\HOwOldAreYou\obj\Debug\netcoreapp3.1\HOwOldAreYou.genruntimeconfig.cache
